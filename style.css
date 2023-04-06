@@ -40,7 +40,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aqua;
+    background-color: #C9C9C9;
     grid-column: 2/3;
     grid-row: 2/3;
   }
